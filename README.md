@@ -1,1 +1,2 @@
 # Daily-Notes-and-Routine-Project
+It is a daily notes and routine project in C. A user can store his/her class notes and routine and see the calendar by creating an account or by login.   Because of the login system, the data stored by a user is secured. 100 people’s data can be stored in this project. Combination these three features (notes, routine, and calendar) saves the user's valuable time. 
